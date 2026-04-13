@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[63944,["/crm-redesign/_next/static/chunks/0gf9pzd~fww1x.js","/crm-redesign/_next/static/chunks/03ti2ueu0it1f.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-zinc-950 flex items-center justify-center","children":["$","div",null,{"className":"text-center","children":[["$","h1",null,{"className":"text-4xl font-bold text-orange-500 mb-4","children":"SSE CRM"}],["$","p",null,{"className":"text-zinc-400 mb-6","children":"Carregando..."}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"window.location.replace(\"/comercial\");"}}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"6SZylwkbF0zmpaQ3A7HNy"}
+4:null
